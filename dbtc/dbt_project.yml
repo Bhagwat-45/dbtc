@@ -40,3 +40,7 @@ models:
     gold:
       +materialized: table
       +schema: gold
+
+seeds:
+  dbtc:
+    +schema: bronze
