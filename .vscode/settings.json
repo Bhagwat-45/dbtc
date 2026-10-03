@@ -1,3 +1,4 @@
 {
-    "dbt.dbtPythonPathOverride": "/Users/chinmaybhagwat/Coding/dbtc/.venv/bin/python3"
+    "dbt.dbtPythonPathOverride": "/Users/chinmaybhagwat/Coding/dbtc/.venv/bin/python3",
+    "dbt.perspectiveTheme": "Vintage"
 }
